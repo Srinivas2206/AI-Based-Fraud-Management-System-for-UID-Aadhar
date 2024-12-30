@@ -1,0 +1,5 @@
+train: C:\Srinivas\InfosysProject\ai_aadhaar_fraud_detection\data\images\train # Path to training images
+val: C:\Srinivas\InfosysProject\ai_aadhaar_fraud_detection\data\images\val # Path to validation images
+
+nc: 3 # Number of classes
+names: ["name", "uid", "address"] # Class names
